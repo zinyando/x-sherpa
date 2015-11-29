@@ -8,17 +8,17 @@ A firebase backend is used.
 
 ## Planned features
 
-[ ] Login and Authentication
-[ ] Administration
-[ ] Permissions
-[ ] User Management
-[ ] Teams
-[ ] Individual development plans
-[ ] Task tracking
-[ ] Goal Management
-[ ] Progress tracking
-[ ] Messaging
-[ ] Groups and Discussions
+- [ ] Login and Authentication
+- [ ] Administration
+- [ ] Permissions
+- [ ] User Management
+- [ ] Teams
+- [ ] Individual development plans
+- [ ] Task tracking
+- [ ] Goal Management
+- [ ] Progress tracking
+- [ ] Messaging
+- [ ] Groups and Discussions
 
 ## Prerequisites
 
