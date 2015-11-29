@@ -1,7 +1,24 @@
 # X-sherpa
 
-This README outlines the details of collaborating on this Ember application.
-A short introduction of this app could easily go here.
+The x-sherpa application is a platform that facilitates the effective mentoring of developer. It
+can be used to mentor individuals and teams alike. It is still in its early days so not much of
+the functionality has been developed yet.
+
+A firebase backend is used.
+
+## Planned features
+
+[ ] Login and Authentication
+[ ] Administration
+[ ] Permissions
+[ ] User Management
+[ ] Teams
+[ ] Individual development plans
+[ ] Task tracking
+[ ] Goal Management
+[ ] Progress tracking
+[ ] Messaging
+[ ] Groups and Discussions
 
 ## Prerequisites
 
@@ -50,4 +67,3 @@ Specify what it takes to deploy your app.
 * Development Browser Extensions
   * [ember inspector for chrome](https://chrome.google.com/webstore/detail/ember-inspector/bmdblncegkenkacieihfhpjfppoconhi)
   * [ember inspector for firefox](https://addons.mozilla.org/en-US/firefox/addon/ember-inspector/)
-
