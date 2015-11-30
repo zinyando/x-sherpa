@@ -1,6 +1,6 @@
 # X-sherpa
 
-The x-sherpa application is a platform that facilitates the effective mentoring of developer. It
+The x-sherpa application is a platform that facilitates the effective mentoring of developers. It
 can be used to mentor individuals and teams alike. It is still in its early days so not much of
 the functionality has been developed yet.
 
